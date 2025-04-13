@@ -1,2 +1,3 @@
 # Assignment5_Mod6
-Python Assignments
+
+Check the ASSIGNMENT5_Mod6.docx file in above folder.
